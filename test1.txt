@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0AD5-A6E4
+
+ Directory of C:\Users\carlfox\Desktop\GIT\MyFolder
+
+04/09/2019  11:02    <DIR>          .
+04/09/2019  11:02    <DIR>          ..
+04/09/2019  11:02                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  326ÿ197ÿ997ÿ568 bytes free
